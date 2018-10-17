@@ -1,2 +1,2 @@
-# languages-cheat-sheets
-Cheat sheets for languages I'm learning
+# Programming 101 Project
+Project for Programming 101 (2017.2). CIN, UFPE.
