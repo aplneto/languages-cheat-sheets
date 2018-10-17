@@ -1,0 +1,306 @@
+@13-11-2017 3:38:49
+adm: efetuou login com sucesso.
+#13-11-2017 3:39:18
+adm: saiu.
+@13-11-2017 3:41:32
+adm: efetuou login com sucesso.
+#13-11-2017 3:41:50
+adm: saiu.
+@13-11-2017 4:1:28
+adm: efetuou login com sucesso.
+#13-11-2017 4:1:51
+adm: saiu.
+@13-11-2017 4:3:3
+adm: efetuou login com sucesso.
+#13-11-2017 4:3:12
+adm: saiu.
+@13-11-2017 4:3:33
+adm: efetuou login com sucesso.
+#13-11-2017 4:3:42
+adm: saiu.
+@13-11-2017 4:4:2
+adm: efetuou login com sucesso.
+!13-11-2017 4:4:7
+adm: imprimiu a lista de usuários do sistema.
+!13-11-2017 4:4:49
+adm: imprimiu a lista de usuários do sistema.
+#13-11-2017 4:5:22
+adm: saiu.
+@13-11-2017 4:10:15
+adm: efetuou login com sucesso.
+#13-11-2017 4:10:27
+adm: saiu.
+@13-11-2017 4:10:44
+adm: efetuou login com sucesso.
+#13-11-2017 4:11:1
+adm: saiu.
+@13-11-2017 4:26:39
+adm: efetuou login com sucesso.
+#13-11-2017 4:27:19
+adm: saiu.
+@13-11-2017 4:28:44
+adm: efetuou login com sucesso.
+#13-11-2017 4:29:4
+adm: saiu.
+@13-11-2017 4:37:59
+adm: efetuou login com sucesso.
+#13-11-2017 4:38:12
+adm: saiu.
+@13-11-2017 4:38:52
+adm: efetuou login com sucesso.
+#13-11-2017 4:39:16
+adm: saiu.
+@13-11-2017 4:42:36
+adm: efetuou login com sucesso.
+#13-11-2017 4:42:48
+adm: saiu.
+@13-11-2017 4:44:24
+adm: efetuou login com sucesso.
+#13-11-2017 4:44:51
+adm: saiu.
+@13-11-2017 4:46:42
+adm: efetuou login com sucesso.
+#13-11-2017 4:47:30
+adm: saiu.
+@13-11-2017 4:48:33
+adm: efetuou login com sucesso.
+$13-11-2017 4:48:59
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:2
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:7
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:10
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:12
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:16
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:20
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:24
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:28
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 4:49:32
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 4:49:39
+adm: saiu.
+@13-11-2017 4:52:29
+adm: efetuou login com sucesso.
+#13-11-2017 4:52:45
+adm: saiu.
+@13-11-2017 4:52:58
+adm: efetuou login com sucesso.
+#13-11-2017 4:53:8
+adm: saiu.
+@13-11-2017 4:53:29
+adm: efetuou login com sucesso.
+#13-11-2017 4:53:39
+adm: saiu.
+@13-11-2017 4:56:48
+adm: efetuou login com sucesso.
+#13-11-2017 4:57:1
+adm: saiu.
+@13-11-2017 5:11:21
+adm: efetuou login com sucesso.
+$13-11-2017 5:11:26
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 5:11:31
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 5:11:35
+adm: saiu.
+@13-11-2017 5:13:47
+adm: efetuou login com sucesso.
+$13-11-2017 5:13:53
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 5:13:56
+adm: saiu.
+@13-11-2017 5:17:0
+adm: efetuou login com sucesso.
+$13-11-2017 5:17:4
+adm: fez uma pesquisa de usuarios.
+%13-11-2017 5:17:16
+adm: modificou o nível de acesso de um usuário.
+%13-11-2017 5:17:17
+adm: modificou o nível de acesso de um usuário.
+$13-11-2017 5:17:21
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 5:17:26
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 5:17:31
+adm: saiu.
+@13-11-2017 5:19:20
+adm: efetuou login com sucesso.
+#13-11-2017 5:19:50
+adm: saiu.
+@13-11-2017 5:30:13
+adm: efetuou login com sucesso.
+#13-11-2017 5:30:15
+adm: saiu.
+@13-11-2017 5:32:8
+adm: efetuou login com sucesso.
+$13-11-2017 5:32:13
+adm: fez uma pesquisa de veiculos.
++13-11-2017 5:33:19
+adm: adcionou um novo veiculo.
+$13-11-2017 5:33:23
+adm: fez uma pesquisa de veiculos.
+#13-11-2017 5:33:31
+adm: saiu.
+@13-11-2017 13:15:43
+adm: efetuou login com sucesso.
+#13-11-2017 13:15:51
+adm: saiu.
+@13-11-2017 13:16:17
+adm: efetuou login com sucesso.
+#13-11-2017 13:16:44
+adm: saiu.
+@13-11-2017 13:16:51
+adam: efetuou login com sucesso.
+#13-11-2017 13:17:15
+adam: saiu.
+@13-11-2017 13:17:58
+adam: efetuou login com sucesso.
+#13-11-2017 13:18:3
+adam: saiu.
+@13-11-2017 16:57:22
+adm: efetuou login com sucesso.
+$13-11-2017 16:57:25
+adm: fez uma pesquisa de veiculos.
+#13-11-2017 16:58:8
+adm: saiu.
+@13-11-2017 16:59:30
+adm: efetuou login com sucesso.
+#13-11-2017 17:0:42
+adm: saiu.
+@13-11-2017 17:1:1
+adm: efetuou login com sucesso.
++13-11-2017 17:1:37
+adm: adcionou um novo veiculo.
+$13-11-2017 17:1:41
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:1:55
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:1:58
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:2:1
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:2:5
+adm: fez uma pesquisa de usuarios.
+%13-11-2017 17:2:14
+adm: modificou o nível de acesso de um usuário.
+$13-11-2017 17:2:18
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:2:28
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 17:2:47
+adm: saiu.
+@13-11-2017 17:5:17
+adm: efetuou login com sucesso.
+$13-11-2017 17:5:19
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:5:34
+adm: fez uma pesquisa de veiculos.
+#13-11-2017 17:8:13
+adm: saiu.
+@13-11-2017 17:28:56
+adm: efetuou login com sucesso.
+#13-11-2017 17:29:3
+adm: saiu.
+@13-11-2017 17:29:9
+adam: efetuou login com sucesso.
+#13-11-2017 17:29:19
+adam: saiu.
+@13-11-2017 17:29:26
+adm: efetuou login com sucesso.
+$13-11-2017 17:29:49
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:30:7
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:30:33
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:30:38
+adm: fez uma pesquisa de veiculos.
++13-11-2017 17:31:6
+adm: adcionou um novo veiculo.
+$13-11-2017 17:31:10
+adm: fez uma pesquisa de veiculos.
+#13-11-2017 17:31:43
+adm: saiu.
+&13-11-2017 17:32:26
+ff: cadastrou-se com sucesso.
+@13-11-2017 17:32:29
+ff: efetuou login com sucesso.
+$13-11-2017 17:32:33
+ff: fez uma pesquisa de veiculos.
+$13-11-2017 17:32:47
+ff: fez uma pesquisa de veiculos.
+#13-11-2017 17:33:47
+ff: saiu.
+@13-11-2017 17:33:53
+adm: efetuou login com sucesso.
+$13-11-2017 17:33:59
+adm: fez uma pesquisa de usuarios.
+%13-11-2017 17:34:19
+adm: modificou o nível de acesso de um usuário.
+$13-11-2017 17:34:23
+adm: fez uma pesquisa de usuarios.
+#13-11-2017 17:34:29
+adm: saiu.
+@13-11-2017 17:34:34
+ff: efetuou login com sucesso.
++13-11-2017 17:35:4
+ff: adcionou um novo veiculo.
+$13-11-2017 17:35:11
+ff: fez uma pesquisa de veiculos.
+$13-11-2017 17:35:31
+ff: fez uma pesquisa de veiculos.
+#13-11-2017 17:36:2
+ff: saiu.
+@13-11-2017 17:36:9
+adm: efetuou login com sucesso.
+$13-11-2017 17:36:13
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:36:24
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:36:32
+adm: fez uma pesquisa de usuarios.
+%13-11-2017 17:36:37
+adm: modificou o nível de acesso de um usuário.
+#13-11-2017 17:36:41
+adm: saiu.
+@13-11-2017 17:36:44
+ff: efetuou login com sucesso.
+$13-11-2017 17:37:22
+ff: fez uma pesquisa de veiculos.
+$13-11-2017 17:38:0
+ff: fez uma pesquisa de veiculos.
+$13-11-2017 17:40:6
+ff: fez uma pesquisa de veiculos.
+$13-11-2017 17:41:29
+ff: fez uma pesquisa de veiculos.
+%13-11-2017 17:41:43
+ff: modificou um veiculo.
+$13-11-2017 17:41:47
+ff: fez uma pesquisa de veiculos.
+%13-11-2017 17:42:6
+ff: modificou um veiculo.
+$13-11-2017 17:42:9
+ff: fez uma pesquisa de veiculos.
+#13-11-2017 17:43:28
+ff: saiu.
+@13-11-2017 17:43:32
+adm: efetuou login com sucesso.
+$13-11-2017 17:43:38
+adm: fez uma pesquisa de usuarios.
+$13-11-2017 17:43:45
+adm: fez uma pesquisa de veiculos.
+$13-11-2017 17:43:52
+adm: fez uma pesquisa de veiculos.
+-13-11-2017 17:43:58
+adm: removeu um veiculo.
+$13-11-2017 17:44:1
+adm: fez uma pesquisa de veiculos.
+#13-11-2017 17:51:32
+adm: saiu.
